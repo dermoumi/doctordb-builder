@@ -19,3 +19,5 @@ Set what specialties and cities you want to build a database of in main.js
 Run the file with `nodejs`
 
     node main.js
+
+Sorry telecontact.ma, and thank you :)
