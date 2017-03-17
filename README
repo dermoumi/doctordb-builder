@@ -1,4 +1,4 @@
-Asynchrously exctracts doctor information (address, telephone number, GPS coordinates if available...) from http://www.telecontact.ma and stores them in a JSON file.
+Asynchrously extracts doctor information (address, telephone number, GPS coordinates if available...) from http://www.telecontact.ma and stores them in a JSON file.
 
 Install dependencies with `npm`
 
