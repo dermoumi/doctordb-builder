@@ -93,7 +93,7 @@ function getPage(city, specialty, page, list, callback) {
             console.log('Status code: ' + res.statusCode);
         }
         else {
-            jsdom.env(body, ['http://localhost/jquery.js'], function(err, window) {
+            jsdom.env(body, ['https://code.jquery.com/jquery-3.2.0.min.js'], function(err, window) {
                 if (err) {
                     console.log('Parsing error occured: ' + err);
                     return;
